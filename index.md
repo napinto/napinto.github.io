@@ -14,12 +14,10 @@
 &nbsp;
 &nbsp;
 
-[[Home](https://napinto.github.io){: .btn}
+[Home](https://napinto.github.io){: .btn}
 [External Links](https://napinto.github.io/Links){: .btn}
 [Contacts](https://napinto.github.io/Contacts){: .btn}
 [CV](assets/CurriculumVitaeNP.pdf){:.btn target="_blank" rel="noopener"}
-
-<!-- [HEROHE](https://napinto.github.io/HEROHE){: .btn} -->
 
 
 
