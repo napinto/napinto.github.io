@@ -18,7 +18,7 @@
 
 [SCOPUS](https://www.scopus.com/authid/detail.uri?authorId=9278025300){:target="_blank" rel="noopener"}
 
-[ResearchID](https://publons.com/researcher/2113172/eduardo-conde-sousa/){:target="_blank" rel="noopener"}
+[ResearchID](https://publons.com/researcher/2606061/nadia-pinto/){:target="_blank" rel="noopener"}
 
 
 
