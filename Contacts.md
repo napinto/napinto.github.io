@@ -4,8 +4,6 @@
 [CV](assets/CurriculumVitaeNP.pdf){:.btn target="_blank" rel="noopener"}
 
 
-
-
 # Contacts
 
 
