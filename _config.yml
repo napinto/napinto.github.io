@@ -1,7 +1,7 @@
 title: Nádia Pinto
 description: 
 show_downloads: false
-#google_analytics: G-3JWYKYVYDZ
+google_analytics: G-BRL3BQZGCH
 theme: jekyll-theme-hacker
 listen_for_clients_preferred_style: true # false (default) or true
 footer: 'follow me on <a href="https://twitter.com/NdiaPinto6">twitter</a>'
@@ -9,5 +9,5 @@ footer: 'follow me on <a href="https://twitter.com/NdiaPinto6">twitter</a>'
 plugins:
   - jekyll-redirect-from
 github:
-  repository_url: https://github.com/econdesousa/
+  repository_url: https://github.com/napinto/
 
