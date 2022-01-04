@@ -23,11 +23,12 @@
 
 
 <!-- Global site tag (gtag.js) - Google Analytics -->
-<script async src="https://www.googletagmanager.com/gtag/js?id=G-3JWYKYVYDZ"></script>
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-BRL3BQZGCH"></script>
 <script>
   window.dataLayer = window.dataLayer || [];
   function gtag(){dataLayer.push(arguments);}
   gtag('js', new Date());
 
-  gtag('config', 'G-3JWYKYVYDZ');
+  gtag('config', 'G-BRL3BQZGCH');
 </script>
+
