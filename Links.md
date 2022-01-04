@@ -16,7 +16,7 @@
 
 [ORCID](https://orcid.org/0000-0002-1903-4206){:target="_blank" rel="noopener"}
 
-[SCOPUS](https://www.scopus.com/authid/detail.uri?authorId=55233686200){:target="_blank" rel="noopener"}
+[SCOPUS](https://www.scopus.com/authid/detail.uri?authorId=9278025300){:target="_blank" rel="noopener"}
 
 [ResearchID](https://publons.com/researcher/2113172/eduardo-conde-sousa/){:target="_blank" rel="noopener"}
 
