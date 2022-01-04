@@ -10,11 +10,11 @@
 
 # External information about me
 
-#[Google Scholar](https://scholar.google.pt/citations?user=xi0xi2AAAAAJ&hl=pt-PT&oi=ao){:target="_blank" rel="noopener"}
+<!--- [Google Scholar](https://scholar.google.pt/citations?user=xi0xi2AAAAAJ&hl=pt-PT&oi=ao){:target="_blank" rel="noopener"} --->
 
 [Ciência ID](https://www.cienciavitae.pt/portal/8513-1E3D-E6A9){:target="_blank" rel="noopener"}
 
-[ORCID](https://orcid.org/0000-0002-6591-5063){:target="_blank" rel="noopener"}
+[ORCID](https://orcid.org/0000-0002-1903-4206){:target="_blank" rel="noopener"}
 
 [SCOPUS](https://www.scopus.com/authid/detail.uri?authorId=55233686200){:target="_blank" rel="noopener"}
 
