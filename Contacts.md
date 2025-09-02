@@ -9,20 +9,17 @@
 
 ### Email:
 
-<a href="mailto:npinto@ipatimup.pt">npinto@ipatimup.pt</a>
+<a href="mailto:npinto@i3s.up.pt"> npinto@i3s.up.pt</a>
 
 
 ### Address:
 
 Nádia Pinto
 
-Population Genetics & Evolution
+Population Genetics and Evolution Group
 
-IPATIMUP/i3S, Rua Alfredo Allen, 208
+i3S, University of Porto
 
-4200-135 Porto, Portugal
-
-Tel: +351 226 074 900
 
 
 
