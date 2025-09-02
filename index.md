@@ -5,7 +5,61 @@
 
 # About
 
-<p align="justify">Nádia Pinto holds three academic degrees in Mathematics awarded by the University of Porto: BSc in Mathematics – Education branch (2003), MSc in Mathematical Engineering (2006), and PhD in Applied Mathematics (2012). She is a Junior Researcher at Population Genetics and Evolution group since 2014. Her research has been focused in the development of mathematical models and software for a wide range of research problems in the field of population genetics. Her expertise and knowledge have been applied in problems regarding the genetic characterization of human populations, human and nonhuman forensic genetics, mutation modeling, and in multimodal studies of neurological diseases, as Alzheimer’s and, recently, migraine. She is author of more than 50 publications in international peer reviewed journals, book chapters and proceedings.</p>
+<p align="justify">
+I am an interdisciplinary researcher, currently based in Porto, Portugal, 
+with a Ph.D. in Applied Mathematics. My expertise spans biomathematics, bioinformatics, 
+population and forensic genetics, and computational biology. Over the past 15 years, 
+I have focused on developing and applying quantitative models to study complex biological 
+and health-related systems. For full details see my CV in dedicated tab.
+</p>
+
+# Academic & Professional Background
+
+<p align="justify">
+I earned my Ph.D. in Applied Mathematics from the University of 
+Porto (FCUP) in 2012, specializing in algorithms for genetic kinship 
+analysis. Currently, I am an Assistant Researcher at i3S – Instituto 
+de Investigação e Inovação em Saúde, University of Porto. My academic 
+journey includes postdoctoral contracts fellowships, teaching appointments, 
+and international research leadership.
+</p>
+
+# Research & Publications
+
+<p align="justify">
+I have authored 76 scientific works, including 48 research papers (43 
+of which are in JCR Q1 journals), six book chapters, a book with CRC 
+Press ("An Introduction to Forensic Genetics for Non-Geneticists"), and a 
+variety of collaborative conference proceedings. My research addresses 
+challenges in forensic genetics, genetic kinship, neurosciences, mutation 
+data analysis, and computational approaches for biological data.
+</p>
+
+# Projects & Funding
+
+<p align="justify">
+I currently lead and participate in several international research projects:
+•	PI for MultiAD and AgeAD (Portugal) – developing multimodal models for Alzheimer’s disease.
+•	i3S Co-PI for Horizon Europe projects (CapCell, ForMat) – focused on forensic genomics and single-cell technologies.
+•	i3S PI in a Marie Curie Network (Natural Traces) – investigating non-human forensic evidence.
+</p>
+
+# Teaching, Supervision & Leadership
+
+<p align="justify">
+I regularly deliver invited lectures, seminars, and workshops across Europe and Latin America. 
+I supervise Ph.D. and MSc students in genetics, computational biology, and forensic science, and 
+I coordinate international working groups leading large collaborative studies for the International 
+Society for Forensic Genetics (ISFG).
+</p>
+
+# Collaboration & Recognition
+
+<p align="justify">
+My research collaborations include partners from more than 40 laboratories worldwide. I frequently 
+coordinate and assess international commissions on population and forensic genetics, and I provide 
+expertise in software validation, modelling, and standards development.
+</p>
 
 
 &nbsp;
